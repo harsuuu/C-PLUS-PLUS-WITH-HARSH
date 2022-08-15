@@ -6,4 +6,4 @@ cout<<++a;
 return 0;
 }
 
-// ye 6 hi print  krega
+// ye 6 hi print  krega 
